@@ -1,0 +1,33 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+4
+1
+33
+'cuantos militros desea comprar?'
+5
+1
+5
+valor
+6
+3
+5
+total
+10
+valor*4500
+3
+Iva
+12
+total*19/100
+6
+total1
+9
+total+iva
+4
+1
+58
+'el valor que tiene que pagar con el impuesto es: ',total1
+1

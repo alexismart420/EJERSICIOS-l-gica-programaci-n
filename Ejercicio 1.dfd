@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+9
+productoA
+3
+500
+9
+productoB
+3
+300
+9
+productoC
+3
+200
+6
+3
+5
+total
+29
+productoA+productoB+productoC
+12
+segundoTotal
+11
+total*5/100
+1
+p
+20
+total - segundoTotal
+4
+1
+47
+'el descuento del total de los producots es ',p
+1
