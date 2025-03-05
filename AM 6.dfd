@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+21
+vp,cuantosdesea, edad
+7
+0
+1
+19
+edad>=18ANDedad<=25
+6
+1
+1
+x
+22
+productos*cuantosdesea
+4
+1
+53
+'señor usuario el valor de su compra de ', x ' pesos'
+13
+6
+3
+1
+x
+14
+vp*cuantodesea
+1
+y
+5
+x*0.5
+1
+z
+3
+x*y
+4
+1
+55
+'señor usuario el valor de su compra es de ', z 'pesos'
+13
+1
