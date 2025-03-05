@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+saldo
+4
+4000
+9
+vendidos 
+3
+250
+7
+limite 
+3
+300
+4
+1
+55
+'señor usuario digite cuantos almuerzos quiere compra '
+5
+1
+9
+almuerzos
+6
+1
+1
+x
+14
+almuerzos*1500
+7
+0
+1
+7
+x>saldo
+4
+1
+43
+'señor usuario su compra ha sido realizada'
+13
+4
+1
+40
+'señor usuario su saldo es insuficiente'
+13
+1
